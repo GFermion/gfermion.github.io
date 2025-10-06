@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz@0,14..32;1,14..32&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@100..900&display=swap');
-@import url('./__themes.css');
 
 :root, :root[data-theme='dark'] {
     --primary-color: #F0F0F0;
@@ -691,3 +690,4 @@ footer p {
 
 
 }
+
